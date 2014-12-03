@@ -23,3 +23,8 @@ Selenium projects
 ** Run tests in parallel on multiple browsers
 ** Internationalition websites
 ** ProxyServer
+** Drag and drop
+** Mouse hover action
+** Page object factory
+** WebDriver event listener
+** Javascript 
